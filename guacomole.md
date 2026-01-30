@@ -6,7 +6,7 @@ Ingredients:
 - 1/2 of medium jalepeno
 
 Instructions: 
-- cut and mash avocados in a molcajete
+- cut and mash avocados in a molcajete ([What is a molcajete?](https://en.wikipedia.org/wiki/Molcajete))
 - chop  onion and jalepeno, chop size to personal preference
 - squeeze lime
 - add salt
